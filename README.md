@@ -34,7 +34,7 @@ The dataset used in this project is the [Flickr8k dataset](https://www.kaggle.co
     ```
 2. Navigate to the project directory:
     ```bash
-    cd ImageCaptionGenerator
+    cd Image-Caption-Generator
     ```
 3. Install the required packages:
     ```bash
